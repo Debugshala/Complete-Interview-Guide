@@ -1,7 +1,7 @@
 <div align="center">	
 	<p>	
 		<a href="https://debugshala.com">	
-      <div>	Debugshala
+      <div>	
 				<img src="https://debugshala.com/wp-content/themes/debugshala/assets/images/Logo%20500X500.png" width="260"  alt="Debugshala">	
 			</div>	
       <br>
